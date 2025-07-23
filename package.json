@@ -1,0 +1,13 @@
+{
+  "name": "anonomoose-relay-server",
+  "version": "1.0.0",
+  "description": "WebSocket relay server for Anonomoose Chat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0",
+    "uuid": "^10.0.0"
+  }
+}
